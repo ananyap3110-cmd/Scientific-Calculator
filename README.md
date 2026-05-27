@@ -10,7 +10,6 @@ A simple scientific calculator built using Java.
 - Scientific operations
 
 ## Technologies Used
-- Java programming
+- Java programming language
 
-## Author
-Ananya Panda
+
